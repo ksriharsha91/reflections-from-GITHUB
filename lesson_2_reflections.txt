@@ -16,3 +16,7 @@ if i want to experiment with a feature, than i can form a branch and work on it.
 
 How do the diagrams help you visualize the branch structure?
 it helps us understand in which branch we exist. It will just help us underatdn the overall structure of the project unless it is a small one. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+if we are happy that the changes made in either branches are ready for production then we can merge the branches. it simplifies the whole structure and the skeleton. 
