@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+All the files present in the folder get connected with the GIT software. SW knows that it is time to track the different files present in the folder. If you do not initialise then you cannot access any changes made. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is an intermediate area between working directory (i.e run locally in the computers hard disk) and repository (or space) created by GIT. It offers a chance to experiment and keep our changes before we could put them into our original repository which is accessible to users. 
