@@ -9,3 +9,7 @@ staging area is an intermediate area between working directory (i.e run locally 
 How can you use the staging area to make sure you have one commit per logical change?
 
 git add followed by the file which involves the logical change. This makes sure that u bundle files which involve logical change. This can be mapped to repository as final commits. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if i want to experiment with a feature, than i can form a branch and work on it. It will be helpful in experimenting initially. 
