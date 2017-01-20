@@ -1,0 +1,12 @@
+The DIFF command didnt really help me perfectly find the difference. It was a bit tedious since the colouring was black and white. 
+
+it makes me an efficient programmer by connecting all my ideas thrugh my history. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+VC systems save codes and usually codes are written in a bunch of folders. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log gives us a comprehensive list of commits made with the help of following info. git commit ids, author name , date and time and message of the commit. 
+
+git diff makes us compare two different versions of the commits so at two different time instances. We have to compare two files with their IDS. 
