@@ -5,3 +5,7 @@ All the files present in the folder get connected with the GIT software. SW know
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is an intermediate area between working directory (i.e run locally in the computers hard disk) and repository (or space) created by GIT. It offers a chance to experiment and keep our changes before we could put them into our original repository which is accessible to users. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git add followed by the file which involves the logical change. This makes sure that u bundle files which involve logical change. This can be mapped to repository as final commits. 
